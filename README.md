@@ -1,2 +1,8 @@
 # JS Cangaceiro
- Aprendizado com o livro o Cangaceiro Javascript Flavio Almeida. 12/2022
+
+ Aprendizado com o livro o Cangaceiro Javascript de Flavio Almeida. 12/2022
+
+
+
+
+ 
