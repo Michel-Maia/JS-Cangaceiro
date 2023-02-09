@@ -3,7 +3,10 @@
 ![preview](./.github/preview.png)
 
 
+
 Aprendizado com o livro o Cangaceiro Javascript de Flavio Almeida. 12/2022 
+
+![preview](./.github/preview01.png)
 
 
 [🔗 Clique aqui para acessar] (https://michel-maia.github.io/JS-Cangaceiro/)
